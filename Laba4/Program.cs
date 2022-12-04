@@ -100,7 +100,7 @@ namespace Laba4
                 {
                     int i = 0;
                     foreach (var studentGroup in listStudentGroups)
-                        Console.WriteLine($"\t{++i}{studentGroup.NameGroup, 10}");
+                        Console.WriteLine($"\tНомер группы: {++i}{studentGroup.NameGroup, 10}");
                 }
 
                 else if (commands.Length == 2)

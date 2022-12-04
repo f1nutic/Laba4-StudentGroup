@@ -6,3 +6,11 @@ M:\Учёба\Языки программирования\2 курс\source\Laba
 M:\Учёба\Языки программирования\2 курс\source\Laba4\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
 M:\Учёба\Языки программирования\2 курс\source\Laba4\Laba4\obj\Debug\Laba4.exe
 M:\Учёба\Языки программирования\2 курс\source\Laba4\Laba4\obj\Debug\Laba4.pdb
+C:\src\Laba4-StudentGroup\Laba4\bin\Debug\Laba4.exe.config
+C:\src\Laba4-StudentGroup\Laba4\bin\Debug\Laba4.exe
+C:\src\Laba4-StudentGroup\Laba4\bin\Debug\Laba4.pdb
+C:\src\Laba4-StudentGroup\Laba4\obj\Debug\Laba4.csproj.AssemblyReference.cache
+C:\src\Laba4-StudentGroup\Laba4\obj\Debug\Laba4.csproj.SuggestedBindingRedirects.cache
+C:\src\Laba4-StudentGroup\Laba4\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+C:\src\Laba4-StudentGroup\Laba4\obj\Debug\Laba4.exe
+C:\src\Laba4-StudentGroup\Laba4\obj\Debug\Laba4.pdb
